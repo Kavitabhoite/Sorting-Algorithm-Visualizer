@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+
+# { component: HeapSort, title: "", name: "HeapSort" },
+#  { component: MergeSort, title: "", name: "MergeSort" },
+ # { component: QuickSort, title: "Quick", name: "QuickSort" },
+# import { HeapSort } from "../sortFunctions/HeapSort.js";
+# import { MergeSort } from "../sortFunctions/MergeSort";
